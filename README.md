@@ -30,9 +30,9 @@ O administrador do sistema deverá Manter permissões e Manter usuários, cada u
 
 ## Componentes utilizados
 
-Para o sistema de autenticação simples foi utilizado o [Laravel Breeze](https://laravel.com/docs/9.x/starter-kits#laravel-breeze).
-Para o sistema de criação de permissões foi utilizado o pacote [Spatie](https://spatie.be/docs/laravel-permission/v5/introduction).
-Para o FrontEnd foi utilizado o template [soft-ui-dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind).
+- Para o sistema de autenticação simples foi utilizado o [Laravel Breeze](https://laravel.com/docs/9.x/starter-kits#laravel-breeze).
+- Para o sistema de criação de permissões foi utilizado o pacote [Spatie](https://spatie.be/docs/laravel-permission/v5/introduction).
+- Para o FrontEnd foi utilizado o template [soft-ui-dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind).
 
 O Breeze utiliza o Tailwind por padrão como framework css, por esse motivo o template front-end também foi escolhido com o mesmo framework.
 
